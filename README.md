@@ -27,6 +27,10 @@ A lightweight Q&A chatbot for NiSC, built with Cloudflare Workers and Google Gem
 4. Google Gemini generates the response.
 5. Interaction data is logged to Google Sheets via Google Apps Script.
 
+## Screenshot
+
+![NiSC Q&A Chatbot](chatbot-screenshot.png)
+
 ## Live Demo
 
 [Try the NiSC Q&A Chatbot](https://nisc-chatbot.nus-nisc.workers.dev/)
